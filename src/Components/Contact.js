@@ -19,8 +19,8 @@ export default function Contact() {
       </form>
             <div className="contact-links">
         <a href="https://www.linkedin.com/in/santhini-priya-b42977283" target="_blank"><FaLinkedin /></a>
-        <a href="https://github.com/G-C-Santhini" target="_blank"><FaGithub /></a>
-        <a href="mailto:santhinipriya2004@gmail.com"><FaEnvelope /></a>
+        <a href="https://github.com/G-C-Santhini" target="_blank"   rel="noopener noreferrer"><FaGithub /></a>
+        <a href="mailto:santhinipriya2004@gmail.com"  rel="noopener noreferrer"><FaEnvelope /></a>
         <a href={Resume} download><FaFileDownload /></a>
       </div>
     </section>
