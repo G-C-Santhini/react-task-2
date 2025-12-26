@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-task-2/static/css/main.20a98291.css",
-    "main.js": "/react-task-2/static/js/main.ea1ceb65.js",
+    "main.js": "/react-task-2/static/js/main.8985e02d.js",
     "static/js/453.7b124fd4.chunk.js": "/react-task-2/static/js/453.7b124fd4.chunk.js",
     "static/media/nav-bg.png": "/react-task-2/static/media/nav-bg.c4a7c0060a93870640c3.png",
     "static/media/aboutbgvideo.mp4": "/react-task-2/static/media/aboutbgvideo.e3c1abf83c38f0b369c7.mp4",
@@ -10,11 +10,11 @@
     "static/media/profile.jpg": "/react-task-2/static/media/profile.f5f1db1b46b295431f50.jpg",
     "index.html": "/react-task-2/index.html",
     "main.20a98291.css.map": "/react-task-2/static/css/main.20a98291.css.map",
-    "main.ea1ceb65.js.map": "/react-task-2/static/js/main.ea1ceb65.js.map",
+    "main.8985e02d.js.map": "/react-task-2/static/js/main.8985e02d.js.map",
     "453.7b124fd4.chunk.js.map": "/react-task-2/static/js/453.7b124fd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20a98291.css",
-    "static/js/main.ea1ceb65.js"
+    "static/js/main.8985e02d.js"
   ]
 }
