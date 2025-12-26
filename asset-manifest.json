@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/G-C-Santhini/react-task-2.git/static/css/main.5ae7499c.css",
+    "main.js": "/G-C-Santhini/react-task-2.git/static/js/main.c6d9319e.js",
+    "static/js/453.7b124fd4.chunk.js": "/G-C-Santhini/react-task-2.git/static/js/453.7b124fd4.chunk.js",
+    "static/media/nav-bg.png": "/G-C-Santhini/react-task-2.git/static/media/nav-bg.c4a7c0060a93870640c3.png",
+    "static/media/aboutbgvideo.mp4": "/G-C-Santhini/react-task-2.git/static/media/aboutbgvideo.e3c1abf83c38f0b369c7.mp4",
+    "static/media/Resume.pdf": "/G-C-Santhini/react-task-2.git/static/media/Resume.a2bd5c8f1538f33816c0.pdf",
+    "static/media/bgimgport.jpg": "/G-C-Santhini/react-task-2.git/static/media/bgimgport.97f0b44ff578a669d02c.jpg",
+    "static/media/profile.jpg": "/G-C-Santhini/react-task-2.git/static/media/profile.f5f1db1b46b295431f50.jpg",
+    "index.html": "/G-C-Santhini/react-task-2.git/index.html",
+    "main.5ae7499c.css.map": "/G-C-Santhini/react-task-2.git/static/css/main.5ae7499c.css.map",
+    "main.c6d9319e.js.map": "/G-C-Santhini/react-task-2.git/static/js/main.c6d9319e.js.map",
+    "453.7b124fd4.chunk.js.map": "/G-C-Santhini/react-task-2.git/static/js/453.7b124fd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae7499c.css",
+    "static/js/main.c6d9319e.js"
+  ]
+}
