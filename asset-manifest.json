@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/G-C-Santhini/react-task-2.git/static/css/main.5ae7499c.css",
-    "main.js": "/G-C-Santhini/react-task-2.git/static/js/main.c6d9319e.js",
-    "static/js/453.7b124fd4.chunk.js": "/G-C-Santhini/react-task-2.git/static/js/453.7b124fd4.chunk.js",
-    "static/media/nav-bg.png": "/G-C-Santhini/react-task-2.git/static/media/nav-bg.c4a7c0060a93870640c3.png",
-    "static/media/aboutbgvideo.mp4": "/G-C-Santhini/react-task-2.git/static/media/aboutbgvideo.e3c1abf83c38f0b369c7.mp4",
-    "static/media/Resume.pdf": "/G-C-Santhini/react-task-2.git/static/media/Resume.a2bd5c8f1538f33816c0.pdf",
-    "static/media/bgimgport.jpg": "/G-C-Santhini/react-task-2.git/static/media/bgimgport.97f0b44ff578a669d02c.jpg",
-    "static/media/profile.jpg": "/G-C-Santhini/react-task-2.git/static/media/profile.f5f1db1b46b295431f50.jpg",
-    "index.html": "/G-C-Santhini/react-task-2.git/index.html",
-    "main.5ae7499c.css.map": "/G-C-Santhini/react-task-2.git/static/css/main.5ae7499c.css.map",
-    "main.c6d9319e.js.map": "/G-C-Santhini/react-task-2.git/static/js/main.c6d9319e.js.map",
-    "453.7b124fd4.chunk.js.map": "/G-C-Santhini/react-task-2.git/static/js/453.7b124fd4.chunk.js.map"
+    "main.css": "/react-task-2/static/css/main.20a98291.css",
+    "main.js": "/react-task-2/static/js/main.ea1ceb65.js",
+    "static/js/453.7b124fd4.chunk.js": "/react-task-2/static/js/453.7b124fd4.chunk.js",
+    "static/media/nav-bg.png": "/react-task-2/static/media/nav-bg.c4a7c0060a93870640c3.png",
+    "static/media/aboutbgvideo.mp4": "/react-task-2/static/media/aboutbgvideo.e3c1abf83c38f0b369c7.mp4",
+    "static/media/Resume.pdf": "/react-task-2/static/media/Resume.a2bd5c8f1538f33816c0.pdf",
+    "static/media/bgimgport.jpg": "/react-task-2/static/media/bgimgport.97f0b44ff578a669d02c.jpg",
+    "static/media/profile.jpg": "/react-task-2/static/media/profile.f5f1db1b46b295431f50.jpg",
+    "index.html": "/react-task-2/index.html",
+    "main.20a98291.css.map": "/react-task-2/static/css/main.20a98291.css.map",
+    "main.ea1ceb65.js.map": "/react-task-2/static/js/main.ea1ceb65.js.map",
+    "453.7b124fd4.chunk.js.map": "/react-task-2/static/js/453.7b124fd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ae7499c.css",
-    "static/js/main.c6d9319e.js"
+    "static/css/main.20a98291.css",
+    "static/js/main.ea1ceb65.js"
   ]
 }
